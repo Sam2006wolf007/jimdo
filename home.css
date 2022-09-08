@@ -770,7 +770,7 @@ select{
     background: linear-gradient(54deg, #00c3f4 0%, #e504eb 100%);
 }
 
-@media only screen and (max-width: 500px){
+@media  (max-width: 500px){
     nav .menu{
         display: none;
     }
